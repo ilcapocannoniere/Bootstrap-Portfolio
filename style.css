@@ -1,0 +1,12 @@
+@media all and (max-width:640px)
+{
+	nav{
+		min-width:640px;
+	}
+	.container{
+		max-width: 640px;
+	}
+	main{
+		max-width: 640px;
+	}
+}
